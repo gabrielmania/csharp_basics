@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\bin\Debug\net6.0\22-ForEachLoop.exe
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\bin\Debug\net6.0\22-ForEachLoop.deps.json
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\bin\Debug\net6.0\22-ForEachLoop.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\bin\Debug\net6.0\22-ForEachLoop.dll
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\bin\Debug\net6.0\22-ForEachLoop.pdb
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.dll
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\refint\22-ForEachLoop.dll
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.pdb
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\22-ForEachLoop.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\22-ForEachLoop\22-ForEachLoop\obj\Debug\net6.0\ref\22-ForEachLoop.dll

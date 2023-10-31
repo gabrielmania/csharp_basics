@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\bin\Debug\net6.0\05-TypeCasting.exe
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\bin\Debug\net6.0\05-TypeCasting.deps.json
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\bin\Debug\net6.0\05-TypeCasting.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\bin\Debug\net6.0\05-TypeCasting.dll
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\bin\Debug\net6.0\05-TypeCasting.pdb
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.dll
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\refint\05-TypeCasting.dll
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.pdb
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\05-TypeCasting.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\05-TypeCasting\05-TypeCasting\obj\Debug\net6.0\ref\05-TypeCasting.dll

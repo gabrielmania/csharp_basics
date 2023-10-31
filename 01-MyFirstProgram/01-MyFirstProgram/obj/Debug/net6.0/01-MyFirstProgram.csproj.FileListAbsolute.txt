@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\bin\Debug\net6.0\01-MyFirstProgram.exe
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\bin\Debug\net6.0\01-MyFirstProgram.deps.json
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\bin\Debug\net6.0\01-MyFirstProgram.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\bin\Debug\net6.0\01-MyFirstProgram.dll
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\bin\Debug\net6.0\01-MyFirstProgram.pdb
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.dll
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\refint\01-MyFirstProgram.dll
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.pdb
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\01-MyFirstProgram.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\01-MyFirstProgram\01-MyFirstProgram\obj\Debug\net6.0\ref\01-MyFirstProgram.dll

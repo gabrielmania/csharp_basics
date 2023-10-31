@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\bin\Debug\net6.0\06-UserInput.exe
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\bin\Debug\net6.0\06-UserInput.deps.json
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\bin\Debug\net6.0\06-UserInput.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\bin\Debug\net6.0\06-UserInput.dll
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\bin\Debug\net6.0\06-UserInput.pdb
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.dll
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\refint\06-UserInput.dll
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.pdb
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\06-UserInput.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\06-UserInput\06-UserInput\obj\Debug\net6.0\ref\06-UserInput.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\bin\Debug\net6.0\30-MultidimensionalArrays.exe
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\bin\Debug\net6.0\30-MultidimensionalArrays.deps.json
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\bin\Debug\net6.0\30-MultidimensionalArrays.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\bin\Debug\net6.0\30-MultidimensionalArrays.dll
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\bin\Debug\net6.0\30-MultidimensionalArrays.pdb
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.dll
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\refint\30-MultidimensionalArrays.dll
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.pdb
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\30-MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\30-MultidimensionalArrays\30-MultidimensionalArrays\obj\Debug\net6.0\ref\30-MultidimensionalArrays.dll

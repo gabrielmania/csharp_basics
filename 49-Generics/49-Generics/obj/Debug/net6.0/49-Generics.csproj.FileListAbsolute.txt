@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\bin\Debug\net6.0\49-Generics.exe
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\bin\Debug\net6.0\49-Generics.deps.json
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\bin\Debug\net6.0\49-Generics.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\bin\Debug\net6.0\49-Generics.dll
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\bin\Debug\net6.0\49-Generics.pdb
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.dll
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\refint\49-Generics.dll
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.pdb
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\49-Generics.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\49-Generics\49-Generics\obj\Debug\net6.0\ref\49-Generics.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\bin\Debug\net6.0\40-MethodOverriding.exe
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\bin\Debug\net6.0\40-MethodOverriding.deps.json
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\bin\Debug\net6.0\40-MethodOverriding.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\bin\Debug\net6.0\40-MethodOverriding.dll
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\bin\Debug\net6.0\40-MethodOverriding.pdb
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.dll
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\refint\40-MethodOverriding.dll
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.pdb
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\40-MethodOverriding.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\40-MethodOverriding\40-MethodOverriding\obj\Debug\net6.0\ref\40-MethodOverriding.dll

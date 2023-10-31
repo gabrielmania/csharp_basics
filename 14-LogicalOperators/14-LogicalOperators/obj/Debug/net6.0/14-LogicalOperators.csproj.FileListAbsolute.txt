@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\bin\Debug\net6.0\14-LogicalOperators.exe
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\bin\Debug\net6.0\14-LogicalOperators.deps.json
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\bin\Debug\net6.0\14-LogicalOperators.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\bin\Debug\net6.0\14-LogicalOperators.dll
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\bin\Debug\net6.0\14-LogicalOperators.pdb
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.dll
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\refint\14-LogicalOperators.dll
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.pdb
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\14-LogicalOperators.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\14-LogicalOperators\14-LogicalOperators\obj\Debug\net6.0\ref\14-LogicalOperators.dll

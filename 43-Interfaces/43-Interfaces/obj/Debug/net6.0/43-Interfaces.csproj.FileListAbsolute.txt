@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\bin\Debug\net6.0\43-Interfaces.exe
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\bin\Debug\net6.0\43-Interfaces.deps.json
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\bin\Debug\net6.0\43-Interfaces.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\bin\Debug\net6.0\43-Interfaces.dll
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\bin\Debug\net6.0\43-Interfaces.pdb
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.dll
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\refint\43-Interfaces.dll
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.pdb
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\43-Interfaces.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\43-Interfaces\43-Interfaces\obj\Debug\net6.0\ref\43-Interfaces.dll

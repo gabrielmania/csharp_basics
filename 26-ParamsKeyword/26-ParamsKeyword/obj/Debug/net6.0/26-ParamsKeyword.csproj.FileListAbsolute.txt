@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\bin\Debug\net6.0\26-ParamsKeyword.exe
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\bin\Debug\net6.0\26-ParamsKeyword.deps.json
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\bin\Debug\net6.0\26-ParamsKeyword.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\bin\Debug\net6.0\26-ParamsKeyword.dll
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\bin\Debug\net6.0\26-ParamsKeyword.pdb
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.dll
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\refint\26-ParamsKeyword.dll
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.pdb
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\26-ParamsKeyword.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\26-ParamsKeyword\26-ParamsKeyword\obj\Debug\net6.0\ref\26-ParamsKeyword.dll

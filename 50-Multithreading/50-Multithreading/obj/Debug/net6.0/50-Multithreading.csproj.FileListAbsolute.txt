@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\bin\Debug\net6.0\50-Multithreading.exe
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\bin\Debug\net6.0\50-Multithreading.deps.json
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\bin\Debug\net6.0\50-Multithreading.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\bin\Debug\net6.0\50-Multithreading.dll
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\bin\Debug\net6.0\50-Multithreading.pdb
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.dll
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\refint\50-Multithreading.dll
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.pdb
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\50-Multithreading.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\50-Multithreading\50-Multithreading\obj\Debug\net6.0\ref\50-Multithreading.dll

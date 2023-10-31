@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\bin\Debug\net6.0\19-RPSGame.exe
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\bin\Debug\net6.0\19-RPSGame.deps.json
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\bin\Debug\net6.0\19-RPSGame.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\bin\Debug\net6.0\19-RPSGame.dll
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\bin\Debug\net6.0\19-RPSGame.pdb
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.dll
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\refint\19-RPSGame.dll
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.pdb
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\19-RPSGame.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\19-RPSGame\19-RPSGame\obj\Debug\net6.0\ref\19-RPSGame.dll

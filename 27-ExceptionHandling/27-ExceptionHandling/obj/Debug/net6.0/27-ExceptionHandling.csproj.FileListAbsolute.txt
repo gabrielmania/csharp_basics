@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\bin\Debug\net6.0\27-ExceptionHandling.exe
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\bin\Debug\net6.0\27-ExceptionHandling.deps.json
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\bin\Debug\net6.0\27-ExceptionHandling.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\bin\Debug\net6.0\27-ExceptionHandling.dll
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\bin\Debug\net6.0\27-ExceptionHandling.pdb
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.dll
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\refint\27-ExceptionHandling.dll
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.pdb
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\27-ExceptionHandling.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\27-ExceptionHandling\27-ExceptionHandling\obj\Debug\net6.0\ref\27-ExceptionHandling.dll

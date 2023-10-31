@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\bin\Debug\net6.0\33-Constructors.exe
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\bin\Debug\net6.0\33-Constructors.deps.json
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\bin\Debug\net6.0\33-Constructors.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\bin\Debug\net6.0\33-Constructors.dll
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\bin\Debug\net6.0\33-Constructors.pdb
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.dll
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\refint\33-Constructors.dll
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.pdb
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\33-Constructors.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\33-Constructors\33-Constructors\obj\Debug\net6.0\ref\33-Constructors.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\bin\Debug\net6.0\08-MathClass.exe
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\bin\Debug\net6.0\08-MathClass.deps.json
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\bin\Debug\net6.0\08-MathClass.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\bin\Debug\net6.0\08-MathClass.dll
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\bin\Debug\net6.0\08-MathClass.pdb
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.dll
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\refint\08-MathClass.dll
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.pdb
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\08-MathClass.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\08-MathClass\08-MathClass\obj\Debug\net6.0\ref\08-MathClass.dll

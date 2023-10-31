@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\bin\Debug\net6.0\29-StringInterpolation.exe
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\bin\Debug\net6.0\29-StringInterpolation.deps.json
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\bin\Debug\net6.0\29-StringInterpolation.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\bin\Debug\net6.0\29-StringInterpolation.dll
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\bin\Debug\net6.0\29-StringInterpolation.pdb
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.dll
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\refint\29-StringInterpolation.dll
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.pdb
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\29-StringInterpolation.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\29-StringInterpolation\29-StringInterpolation\obj\Debug\net6.0\ref\29-StringInterpolation.dll

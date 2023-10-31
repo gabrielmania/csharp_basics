@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\bin\Debug\net6.0\38-ArrayOfObjects.exe
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\bin\Debug\net6.0\38-ArrayOfObjects.deps.json
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\bin\Debug\net6.0\38-ArrayOfObjects.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\bin\Debug\net6.0\38-ArrayOfObjects.dll
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\bin\Debug\net6.0\38-ArrayOfObjects.pdb
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.dll
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\refint\38-ArrayOfObjects.dll
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.pdb
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\38-ArrayOfObjects.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\38-ArrayOfObjects\38-ArrayOfObjects\obj\Debug\net6.0\ref\38-ArrayOfObjects.dll

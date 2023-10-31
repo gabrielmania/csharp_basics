@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\bin\Debug\net6.0\31-Classes.exe
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\bin\Debug\net6.0\31-Classes.deps.json
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\bin\Debug\net6.0\31-Classes.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\bin\Debug\net6.0\31-Classes.dll
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\bin\Debug\net6.0\31-Classes.pdb
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.dll
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\refint\31-Classes.dll
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.pdb
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\31-Classes.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\31-Classes\31-Classes\obj\Debug\net6.0\ref\31-Classes.dll

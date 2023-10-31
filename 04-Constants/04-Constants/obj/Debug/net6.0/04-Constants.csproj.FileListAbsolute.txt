@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\bin\Debug\net6.0\04-Constants.exe
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\bin\Debug\net6.0\04-Constants.deps.json
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\bin\Debug\net6.0\04-Constants.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\bin\Debug\net6.0\04-Constants.dll
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\bin\Debug\net6.0\04-Constants.pdb
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.dll
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\refint\04-Constants.dll
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.pdb
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\04-Constants.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\04-Constants\04-Constants\obj\Debug\net6.0\ref\04-Constants.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\bin\Debug\net6.0\47-AutoImplementedProperties.exe
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\bin\Debug\net6.0\47-AutoImplementedProperties.deps.json
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\bin\Debug\net6.0\47-AutoImplementedProperties.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\bin\Debug\net6.0\47-AutoImplementedProperties.dll
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\bin\Debug\net6.0\47-AutoImplementedProperties.pdb
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.dll
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\refint\47-AutoImplementedProperties.dll
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.pdb
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\47-AutoImplementedProperties.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\47-AutoImplementedProperties\47-AutoImplementedProperties\obj\Debug\net6.0\ref\47-AutoImplementedProperties.dll

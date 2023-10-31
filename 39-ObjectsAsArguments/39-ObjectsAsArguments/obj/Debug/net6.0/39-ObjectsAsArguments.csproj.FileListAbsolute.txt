@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\bin\Debug\net6.0\39-ObjectsAsArguments.exe
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\bin\Debug\net6.0\39-ObjectsAsArguments.deps.json
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\bin\Debug\net6.0\39-ObjectsAsArguments.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\bin\Debug\net6.0\39-ObjectsAsArguments.dll
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\bin\Debug\net6.0\39-ObjectsAsArguments.pdb
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.dll
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\refint\39-ObjectsAsArguments.dll
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.pdb
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\39-ObjectsAsArguments.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\39-ObjectsAsArguments\39-ObjectsAsArguments\obj\Debug\net6.0\ref\39-ObjectsAsArguments.dll

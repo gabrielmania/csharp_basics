@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\bin\Debug\net6.0\18-NumberGuessingGame.exe
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\bin\Debug\net6.0\18-NumberGuessingGame.deps.json
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\bin\Debug\net6.0\18-NumberGuessingGame.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\bin\Debug\net6.0\18-NumberGuessingGame.dll
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\bin\Debug\net6.0\18-NumberGuessingGame.pdb
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.dll
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\refint\18-NumberGuessingGame.dll
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.pdb
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\18-NumberGuessingGame.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\18-NumberGuessingGame\18-NumberGuessingGame\obj\Debug\net6.0\ref\18-NumberGuessingGame.dll

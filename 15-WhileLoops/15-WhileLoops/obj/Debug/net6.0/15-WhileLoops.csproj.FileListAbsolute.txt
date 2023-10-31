@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\bin\Debug\net6.0\15-WhileLoops.exe
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\bin\Debug\net6.0\15-WhileLoops.deps.json
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\bin\Debug\net6.0\15-WhileLoops.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\bin\Debug\net6.0\15-WhileLoops.dll
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\bin\Debug\net6.0\15-WhileLoops.pdb
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.dll
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\refint\15-WhileLoops.dll
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.pdb
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\15-WhileLoops.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\15-WhileLoops\15-WhileLoops\obj\Debug\net6.0\ref\15-WhileLoops.dll

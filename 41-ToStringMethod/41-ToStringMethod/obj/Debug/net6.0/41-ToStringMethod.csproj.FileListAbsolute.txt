@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\bin\Debug\net6.0\41-ToStringMethod.exe
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\bin\Debug\net6.0\41-ToStringMethod.deps.json
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\bin\Debug\net6.0\41-ToStringMethod.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\bin\Debug\net6.0\41-ToStringMethod.dll
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\bin\Debug\net6.0\41-ToStringMethod.pdb
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.dll
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\refint\41-ToStringMethod.dll
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.pdb
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\41-ToStringMethod.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\41-ToStringMethod\41-ToStringMethod\obj\Debug\net6.0\ref\41-ToStringMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\bin\Debug\net6.0\23-Methods.exe
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\bin\Debug\net6.0\23-Methods.deps.json
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\bin\Debug\net6.0\23-Methods.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\bin\Debug\net6.0\23-Methods.dll
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\bin\Debug\net6.0\23-Methods.pdb
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.dll
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\refint\23-Methods.dll
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.pdb
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\23-Methods.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\23-Methods\23-Methods\obj\Debug\net6.0\ref\23-Methods.dll

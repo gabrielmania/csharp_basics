@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\bin\Debug\net6.0\13-Switches.exe
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\bin\Debug\net6.0\13-Switches.deps.json
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\bin\Debug\net6.0\13-Switches.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\bin\Debug\net6.0\13-Switches.dll
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\bin\Debug\net6.0\13-Switches.pdb
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.dll
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\refint\13-Switches.dll
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.pdb
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\13-Switches.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\13-Switches\13-Switches\obj\Debug\net6.0\ref\13-Switches.dll

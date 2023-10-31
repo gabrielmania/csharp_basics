@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\bin\Debug\net6.0\36-Inheritance.exe
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\bin\Debug\net6.0\36-Inheritance.deps.json
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\bin\Debug\net6.0\36-Inheritance.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\bin\Debug\net6.0\36-Inheritance.dll
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\bin\Debug\net6.0\36-Inheritance.pdb
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.dll
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\refint\36-Inheritance.dll
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.pdb
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\36-Inheritance.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\36-Inheritance\36-Inheritance\obj\Debug\net6.0\ref\36-Inheritance.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\bin\Debug\net6.0\42-Polymorphism.exe
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\bin\Debug\net6.0\42-Polymorphism.deps.json
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\bin\Debug\net6.0\42-Polymorphism.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\bin\Debug\net6.0\42-Polymorphism.dll
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\bin\Debug\net6.0\42-Polymorphism.pdb
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.dll
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\refint\42-Polymorphism.dll
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.pdb
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\42-Polymorphism.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\42-Polymorphism\42-Polymorphism\obj\Debug\net6.0\ref\42-Polymorphism.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\bin\Debug\net6.0\32-Objects.exe
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\bin\Debug\net6.0\32-Objects.deps.json
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\bin\Debug\net6.0\32-Objects.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\bin\Debug\net6.0\32-Objects.dll
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\bin\Debug\net6.0\32-Objects.pdb
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.dll
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\refint\32-Objects.dll
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.pdb
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\32-Objects.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\32-Objects\32-Objects\obj\Debug\net6.0\ref\32-Objects.dll

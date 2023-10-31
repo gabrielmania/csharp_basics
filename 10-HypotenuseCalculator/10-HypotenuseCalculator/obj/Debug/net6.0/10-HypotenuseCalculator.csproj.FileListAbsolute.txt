@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\bin\Debug\net6.0\10-HypotenuseCalculator.exe
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\bin\Debug\net6.0\10-HypotenuseCalculator.deps.json
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\bin\Debug\net6.0\10-HypotenuseCalculator.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\bin\Debug\net6.0\10-HypotenuseCalculator.dll
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\bin\Debug\net6.0\10-HypotenuseCalculator.pdb
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.dll
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\refint\10-HypotenuseCalculator.dll
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.pdb
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\10-HypotenuseCalculator.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\10-HypotenuseCalculator\10-HypotenuseCalculator\obj\Debug\net6.0\ref\10-HypotenuseCalculator.dll

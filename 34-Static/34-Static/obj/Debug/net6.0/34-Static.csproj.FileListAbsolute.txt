@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\bin\Debug\net6.0\34-Static.exe
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\bin\Debug\net6.0\34-Static.deps.json
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\bin\Debug\net6.0\34-Static.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\bin\Debug\net6.0\34-Static.dll
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\bin\Debug\net6.0\34-Static.pdb
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.dll
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\refint\34-Static.dll
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.pdb
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\34-Static.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\34-Static\34-Static\obj\Debug\net6.0\ref\34-Static.dll

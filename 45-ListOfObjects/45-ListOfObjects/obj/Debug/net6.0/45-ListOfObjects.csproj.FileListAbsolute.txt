@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\bin\Debug\net6.0\45-ListOfObjects.exe
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\bin\Debug\net6.0\45-ListOfObjects.deps.json
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\bin\Debug\net6.0\45-ListOfObjects.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\bin\Debug\net6.0\45-ListOfObjects.dll
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\bin\Debug\net6.0\45-ListOfObjects.pdb
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.dll
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\refint\45-ListOfObjects.dll
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.pdb
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\45-ListOfObjects.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\45-ListOfObjects\45-ListOfObjects\obj\Debug\net6.0\ref\45-ListOfObjects.dll

@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\bin\Debug\net6.0\17-NestedLoops.exe
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\bin\Debug\net6.0\17-NestedLoops.deps.json
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\bin\Debug\net6.0\17-NestedLoops.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\bin\Debug\net6.0\17-NestedLoops.dll
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\bin\Debug\net6.0\17-NestedLoops.pdb
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.dll
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\refint\17-NestedLoops.dll
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.pdb
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\17-NestedLoops.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\17-NestedLoops\17-NestedLoops\obj\Debug\net6.0\ref\17-NestedLoops.dll

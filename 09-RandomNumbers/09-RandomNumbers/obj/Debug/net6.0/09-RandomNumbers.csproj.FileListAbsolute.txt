@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\bin\Debug\net6.0\09-RandomNumbers.exe
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\bin\Debug\net6.0\09-RandomNumbers.deps.json
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\bin\Debug\net6.0\09-RandomNumbers.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\bin\Debug\net6.0\09-RandomNumbers.dll
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\bin\Debug\net6.0\09-RandomNumbers.pdb
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.dll
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\refint\09-RandomNumbers.dll
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.pdb
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\09-RandomNumbers.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\09-RandomNumbers\09-RandomNumbers\obj\Debug\net6.0\ref\09-RandomNumbers.dll

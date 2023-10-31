@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\bin\Debug\net6.0\03-Variables.exe
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\bin\Debug\net6.0\03-Variables.deps.json
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\bin\Debug\net6.0\03-Variables.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\bin\Debug\net6.0\03-Variables.dll
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\bin\Debug\net6.0\03-Variables.pdb
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.dll
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\refint\03-Variables.dll
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.pdb
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\03-Variables.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\03-Variables\03-Variables\obj\Debug\net6.0\ref\03-Variables.dll

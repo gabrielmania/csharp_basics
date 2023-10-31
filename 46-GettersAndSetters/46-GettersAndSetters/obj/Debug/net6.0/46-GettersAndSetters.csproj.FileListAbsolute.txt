@@ -1,0 +1,14 @@
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\bin\Debug\net6.0\46-GettersAndSetters.exe
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\bin\Debug\net6.0\46-GettersAndSetters.deps.json
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\bin\Debug\net6.0\46-GettersAndSetters.runtimeconfig.json
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\bin\Debug\net6.0\46-GettersAndSetters.dll
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\bin\Debug\net6.0\46-GettersAndSetters.pdb
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.AssemblyInfo.cs
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.dll
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\refint\46-GettersAndSetters.dll
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.pdb
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\46-GettersAndSetters.genruntimeconfig.cache
+C:\Users\InterAction Admin\source\repos\46-GettersAndSetters\46-GettersAndSetters\obj\Debug\net6.0\ref\46-GettersAndSetters.dll
